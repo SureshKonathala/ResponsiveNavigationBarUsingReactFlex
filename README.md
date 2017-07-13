@@ -12,7 +12,7 @@ Go to [the node.js website](http://nodejs.org/) to download and install node.js.
 
 We are developing against the latest version of node.js (7.10.0, currently). Once you have node.js installed, you should do this to update npm:
 
-    sudo npm install -g
+    npm install
 
 ***Running the project***
 

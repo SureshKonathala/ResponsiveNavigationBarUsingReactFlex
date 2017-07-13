@@ -1,7 +1,7 @@
 {
   "name": "employeeidbardemo2",
   "version": "1.0.0",
-  "description": "This is to demo employee ID Bar component",
+  "description": "This is responsive navigation bar",
   "main": "index.js",
   "scripts": {
     "build": "webpack --watch --progress --color",
